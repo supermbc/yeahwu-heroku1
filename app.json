@@ -1,0 +1,34 @@
+{
+    "name": "heroku",
+    "description": "heroku yes",
+    "keywords": ["heroku yes"],
+    "env": {
+        "PASSWORD": {
+            "description": "PASSWORD",
+            "value": "password"
+        },
+        "SSPATH": {
+            "description": "SSPATH",
+            "value": "/sspath"
+        },
+        "GOSTPATH": {
+            "description": "GOSTPATH",
+            "value": "/gostpath"
+        },
+        "BROOKPATH": {
+            "description": "BROOKPATH",
+            "value": "/brookpath"
+        },
+        "V2RAYPATH": {
+            "description": "V2RAYPATH",
+            "value": "/vairocana818"        
+        },
+        "UUID": {
+            "description": "V2RAY UUID",
+            "value": "1c1f10c0-8561-41aa-8081-a6b71293fc71"
+        }
+    },
+    "website": "https://github.com/vairocana818/yeahwu-heroku",
+    "repository": "https://github.com/vairocana818/yeahwu-heroku",
+    "stack": "container"
+}
